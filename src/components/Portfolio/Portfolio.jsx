@@ -42,7 +42,7 @@ const Portfolio = () => {
           <div className='portfolio_item-image'>
              <img src={IMG1} alt=''/>
           </div>
-          <h3>This is a Portfolio item title</h3>
+          <h3>This is a Portfolio item </h3>
           <a href='https://github.com/AbdiAhmed6457/email.git ' target='_blank' className='btn'>Github</a>
           <a href='https://dribbble.com/shots/23279428-Caleido-Finance-UX-UI-design' target='_blank' className='btn btn-primary'>Live Demo</a>
         </article>
